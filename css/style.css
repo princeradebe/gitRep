@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+}
+
+.button {
+    width: 100px;
+    height: 20px;
+    background-color: #fff;
+    text-align: center;
+    position: relative;
+}
